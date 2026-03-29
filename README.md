@@ -93,7 +93,7 @@ Result: There are currently no power option when Shut Down icon is clicked.
 * AD Domain Structure
 * GPO Editor Screenshot
 * PC joined to domain
-* Result of Shut Down denied access
+* [Result of Shut Down denied access]{https://github.com/Lukmon-B/Active-Directory-Simulation-LUKMANBTECH.AI/blob/main/Screenshots/Shut_Down_Access_Denied.png}
 
 \---
 
